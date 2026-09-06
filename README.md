@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=800&color=10B981&center=true&vCenter=true&width=650&lines=whoami;shashidhar-pawadashetti;cat+role.txt;Cloud%2FDevOps+%26+Backend+Systems+Engineer;cat+target_roles.json;%5B%22Cloud+Engineer%22%2C+%22DevOps+Engineer%22%2C+%22Backend+Engineer%22%5D;git+status+--contributions;%5BACTIVE%5D+Open+to+Open-Source+%26+Project+Contributions;docker-compose+up+-d;%5BREADY%5D+Resilient+cloud+systems+online." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=850&color=10B981&center=true&vCenter=true&width=600&lines=whoami;shashidhar-pawadashetti;cat+role.txt;Cloud%2FDevOps+%26+Backend+Engineer;cat+targets.json;Cloud%2C+DevOps+%26+Backend+Roles;git+status;Open+for+Project+Contributions;docker-compose+up;%5BREADY%5D+Systems+online+%26+resilient." alt="Typing SVG" />
 
 <p align="center">
   <a href="mailto:shashipshetti@gmail.com"><img src="https://img.shields.io/badge/Email-shashipshetti%40gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white" /></a>
