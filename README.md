@@ -116,7 +116,7 @@ I'm a Computer Science student specializing in **Cloud/DevOps engineering** and 
 </td>
 <td width="50%" valign="top">
 
-### 🏆 **TrustLedger**
+### 🏆 **[TrustLedger](https://github.com/Shashidhar-Pawadashetti/TrustLedger.git)**
 *1st Runner-Up · HackArena 2k26*
 
 - Escrow & dispute resolution engine with live WebSockets
